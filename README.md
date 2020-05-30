@@ -1,4 +1,4 @@
-## Idaho COVID-19 Consortiuum
+## Idaho COVID-19 Modeling
 by Matthew L Ferguson
 
 Associate Professor of Physics, Boise State University
