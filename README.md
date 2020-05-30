@@ -1,4 +1,4 @@
-## Idaho COVID-19 Modeling
+## COVID-19 Modeling and Prediction using SIR Model
 by Matthew L Ferguson
 
 Associate Professor of Physics, Boise State University
